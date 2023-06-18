@@ -22,9 +22,9 @@ msgid "One Blue Marble - a community of creators around the globe"
 msgstr "One Blue Marble - uma comunidade de criadores ao redor do globo"
 
 #. type: Content of: <div><h2>
-#: ubiquity-slideshow/slides/neon.html:3
-msgid "KDE neon - the latest and greatest from the KDE community"
-msgstr "KDE neon - o melhor e mais recente da comunidade KDE"
+#: ubiquity-slideshow/slides/apex.html:3
+msgid "ApexOS - the latest and greatest from the KDE community"
+msgstr "ApexOS - o melhor e mais recente da comunidade KDE"
 
 #. type: Content of: <div><h2>
 #: ubiquity-slideshow/slides/plasma.html:3
@@ -33,5 +33,5 @@ msgstr "Área de trabalho Plasma, simples por padrão, potente quando necessári
 
 #. type: Content of: <div><h2>
 #: ubiquity-slideshow/slides/secure.html:3
-msgid "Security, privacy and autonomy with KDE, Plasma and Neon"
-msgstr "Segurança, privacidade e autonomia com KDE, Plasma e Neon"
+msgid "Security, privacy and autonomy with KDE, Plasma and Apex"
+msgstr "Segurança, privacidade e autonomia com KDE, Plasma e Apex"
