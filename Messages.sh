@@ -9,6 +9,6 @@ for html_file in `find ubiquity-slideshow -name \*.html | grep -v index.html`; d
 done
 
 po4a-gettextize \
-  --copyright-holder=This_file_is_part_of_KDE \
+  --copyright-holder=This_file_is_part_of_ApexOS \
   -M UTF-8 -f xhtml -o attributes=data-translate \
-  $file_args -p $podir/ubiquity-slideshow-neon.pot
+  $file_args -p $podir/ubiquity-slideshow-apex.pot
