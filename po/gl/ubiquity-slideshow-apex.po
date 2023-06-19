@@ -1,0 +1,36 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Adrián Chaves (Gallaecio) <adrian@chaves.io>, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-01-20 01:21+0100\n"
+"PO-Revision-Date: 2018-12-16 22:05+0100\n"
+"Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>\n"
+"Language-Team: Galician <kde-i18n-doc@kde.org>\n"
+"Language: gl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#. type: Content of: <div><h2>
+#: ubiquity-slideshow/slides/kde.html:3
+msgid "One Blue Marble - a community of creators around the globe"
+msgstr "Unha bóla azul — unha comunidade de creadores arredor do mundo"
+
+#. type: Content of: <div><h2>
+#: ubiquity-slideshow/slides/apex.html:3
+msgid "ApexOS - the latest from the Linux community"
+msgstr "ApexOS — as últimas novidades da comunidade Linux"
+
+#. type: Content of: <div><h2>
+#: ubiquity-slideshow/slides/plasma.html:3
+msgid "Plasma Desktop, simple by default and powerful when needed"
+msgstr "Escritorio Plasma, sinxelo por defecto e potente cando é preciso"
+
+#. type: Content of: <div><h2>
+#: ubiquity-slideshow/slides/secure.html:3
+msgid "Security, privacy and autonomy with KDE, Plasma and Apex"
+msgstr "Seguranza, privacidade e autonomía con KDE, Plasma e Apex"

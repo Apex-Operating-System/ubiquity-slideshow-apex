@@ -1,0 +1,39 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Zayed Al-Saidi <zayed.alsaidi@gmail.com>, 2021.
+# victorgabriel878 <victorgabrielnet53@gmail.com>, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-01-20 01:21+0100\n"
+"PO-Revision-Date: 2023-06-18 12:58-0300\n"
+"Last-Translator: victorgabriel878 <victorgabrielnet53@gmail.com>\n"
+"Language-Team: Arabic <kde-i18n-pt_BR@kde.org>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 &&"
+" n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: Lokalize 21.12.3\n"
+
+#. type: Content of: <div><h2>
+#: ubiquity-slideshow/slides/kde.html:3
+msgid "One Blue Marble - a community of creators around the globe"
+msgstr "قطعة رخام زرقاء - مجتمع من المبدعين حول العالم"
+
+#. type: Content of: <div><h2>
+#: ubiquity-slideshow/slides/apex.html:3
+msgid "ApexOS - the latest from the Linux community"
+msgstr "أبيكس أو إس - أحدث ما يأتي من مجتمع لينكس"
+
+#. type: Content of: <div><h2>
+#: ubiquity-slideshow/slides/plasma.html:3
+msgid "Plasma Desktop, simple by default and powerful when needed"
+msgstr "سطح مكتب بلازما، بسيط في الظاهر قوي عند الحاجة"
+
+#. type: Content of: <div><h2>
+#: ubiquity-slideshow/slides/secure.html:3
+msgid "Security, privacy and autonomy with KDE, Plasma and Apex"
+msgstr "الأمان، الخصوصية والاستقلالية مع كي دي إي، بلازما وأبيكس"
